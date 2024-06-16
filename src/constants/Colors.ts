@@ -1,0 +1,10 @@
+export const backgroundColor = "#1E1E1E";
+export const second_background_color = "#323233";
+export const text_color = "#D7D7D7";
+export const border_color = "#B4B4B4";
+export const main_color = "#C5B358";
+export const dark_main_color = "#82763A";
+export const categories_color = "#20B2AA";
+export const entries_color = "#9457EB";
+export const form_fields_color = "#9457EB";
+export const highlight_color = "#D7D7D7";

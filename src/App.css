@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Play";
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+
+body {
+  background-color: #1e1e1e;
+}
+/***** Thumb Styles *****/
+/***** Chrome, Safari, Opera, and Edge Chromium *****/
+input[type="range"]::-webkit-slider-thumb {
+  appearance: none;
+  background-color: #c5b358;
+  height: 20px;
+  width: 20px;
+  border: none;
+  border-radius: 100px;
+  cursor: pointer;
+}
+/* 
+input::placeholder {
+  color: red;
+} */
